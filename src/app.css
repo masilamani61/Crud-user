@@ -1,0 +1,29 @@
+
+.form{
+    width: 100px;
+}
+
+.navbar-style{
+    position: absolute;
+    left: 10px;
+}
+.navbar-form{
+    position: absolute;
+    right: 40px;
+}
+
+.pagination a{
+    height:30px;
+    width: 30px;
+    background-color: blue;
+    margin-left:20px;
+    color: white;
+    text-decoration: none;
+}
+.pagination p{
+    margin: auto;
+}
+.border{
+    border: 2px solid Black;
+    border-radius: 5px;
+}
